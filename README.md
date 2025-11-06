@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ppowynzb34qx51.github.io/.github/">  
+<a href="https://ppowynzb34qx51.github.io/.github/airmail">  
 <img src="https://img.shields.io/badge/GET_AIRMAIL-darkgreen?style=for-the-badge&logo=apple" alt="GET AIRMAIL">  
 </a>  
 </div>  
